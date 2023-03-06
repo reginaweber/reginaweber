@@ -1,5 +1,5 @@
-current directory: /Users/regina/sciebo/GitHub/reginaweber.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.4/ext/ffi_c
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20220314-55289-1la2j3z.rb extconf.rb
+current directory: /Users/regina/GitHub/reginaweber.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.4/ext/ffi_c
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230306-17572-411hhw.rb extconf.rb
 checking for ffi.h... *** extconf.rb failed ***
 Could not create Makefile due to some reason, probably lack of necessary
 libraries and/or headers.  Check the mkmf.log file for more details.  You may
@@ -48,6 +48,6 @@ You have to install development tools first.
 
 To see why this extension failed to compile, please check the mkmf.log which can be found here:
 
-  /Users/regina/sciebo/GitHub/reginaweber.github.io/vendor/bundle/ruby/2.6.0/extensions/universal-darwin-21/2.6.0/ffi-1.15.4/mkmf.log
+  /Users/regina/GitHub/reginaweber.github.io/vendor/bundle/ruby/2.6.0/extensions/universal-darwin-21/2.6.0/ffi-1.15.4/mkmf.log
 
 extconf failed, exit code 1
